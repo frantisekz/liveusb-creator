@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: liveusb-creator.master.pot.ppt\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-11-02 19:40+0100\n"
-"PO-Revision-Date: 2016-04-26 15:47+0200\n"
+"PO-Revision-Date: 2016-04-26 17:20+0200\n"
 "Last-Translator: Adam Pribyl <pribyl@lowlevel.cz>\n"
 "Language-Team: Czech <fedora-cs-list@redhat.com>\n"
 "Language: cs\n"
@@ -107,7 +107,7 @@ msgstr "Najít obraz operačního systému"
 #: liveusb/components/ImageList.qml:212
 msgctxt ""
 msgid "Display additional Fedora flavors"
-msgstr "Zobrazit další edice Fedory"
+msgstr "Zobrazit další varianty Fedory"
 
 #: liveusb/creator.py:146
 msgid "Setting up OLPC boot file..."
